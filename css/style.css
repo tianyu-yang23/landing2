@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@700&family=Inter:wght@400;800&family=Lora:ital,wght@0,400;0,700;1,700&family=Luckiest+Guy&family=Luxurious+Roman&family=Roboto+Slab:wght@800&family=Roboto:ital,wght@0,400;0,700;1,500;1,900&family=Romanesco&display=swap');
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px; 
+	background-color: black;
+	margin: 0px;
+	text-align: center;
+	padding: 20px;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 30px;
+
+a {
+	text-decoration: none;
+}
+
+
